@@ -17,16 +17,16 @@
 ### 🏆 My GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/zion369369/github-achievements-vault" title="Quickdraw: Closed an issue within 5 minutes">
+  <a href="https://github.com/zion369369" title="Quickdraw: Closed an issue within 5 minutes">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95px" style="margin: 5px;" alt="Quickdraw" />
   </a>
-  <a href="https://github.com/zion369369/github-achievements-vault" title="YOLO: Merged a PR without review">
+  <a href="https://github.com/zion369369" title="YOLO: Merged a PR without review">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px" style="margin: 5px;" alt="YOLO" />
   </a>
-  <a href="https://github.com/zion369369/github-achievements-vault" title="Pull Shark: Merged 128+ Pull Requests">
+  <a href="https://github.com/zion369369" title="Pull Shark: Merged 128+ Pull Requests">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="95px" style="margin: 5px;" alt="Pull Shark" />
   </a>
-  <a href="https://github.com/zion369369/github-achievements-vault" title="Pair Extraordinaire: Co-authored 48+ Pull Requests">
+  <a href="https://github.com/zion369369" title="Pair Extraordinaire: Co-authored 48+ Pull Requests">
     <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="95px" style="margin: 5px;" alt="Pair Extraordinaire" />
   </a>
 </p>
