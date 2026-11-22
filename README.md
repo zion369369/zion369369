@@ -10,6 +10,9 @@
 
 <p align="center">
   <img src="https://komarev.com/normal-cb.png?username=zion369369&color=orange&style=flat-square&label=PROFILE+VIEWS" alt="views count" />
+  <a href="https://www.viberank.app/profile/zion369369">
+    <img src="https://www.viberank.app/api/badge/zion369369" alt="viberank" />
+  </a>
 </p>
 
 ---
