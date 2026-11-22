@@ -4,7 +4,7 @@ I build web apps and tools for people who make things with AI. My work ranges fr
 
 ## Coding leaderboards
 
-![November 23, 2026 snapshot. VibeRank all-time efficiency ranks: Copilot 7th, Antigravity 18th, Codex 39th, Claude 46th. ccclub 13th worldwide. CCgather 162nd globally and 1st in country. LeetCode profile: zion369369.](leaderboards.svg)
+![November 23, 2026 snapshot. VibeRank all-time efficiency ranks: Copilot 7th, Antigravity 18th, Codex 39th, Claude 46th. ccclub 13th worldwide. CCgather 162nd globally and 1st in country. LeetCode: 3 AI-assisted practice problems solved (2 easy, 1 medium).](leaderboards.svg)
 
 [VibeRank profile](https://www.viberank.app/profile/zion369369) · [ccclub profile](https://ccclub.dev/u/zion369369) · [CCgather ranking](https://ccgather.com/leaderboard?u=zion369369) · [LeetCode profile](https://leetcode.com/u/zion369369/)
 

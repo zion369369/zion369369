@@ -28,7 +28,8 @@
   <text x="355" y="405" font-size="16" fill="#b4b4bd">2.14M tokens</text>
   <path d="M28 437h664" stroke="#303035"/>
   <text x="28" y="475" font-size="21" fill="#ffffff" font-weight="700">LeetCode</text>
-  <text x="28" y="503" font-size="16" fill="#b4b4bd">Algorithm practice</text>
-  <text x="355" y="480" font-size="21" fill="#ff801e">@zion369369</text>
+  <text x="28" y="503" font-size="16" fill="#b4b4bd">Practice · @zion369369</text>
+  <text x="355" y="480" font-size="21" fill="#ff801e">3 solved · AI-assisted</text>
+  <text x="355" y="504" font-size="16" fill="#b4b4bd">2 easy · 1 medium</text>
   </g>
 </svg>
