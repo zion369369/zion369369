@@ -6,6 +6,8 @@ I build web apps and tools for people who make things with AI. My work ranges fr
 
 <a href="https://ccclub.dev/u/zion369369"><img src="https://ccclub.dev/u/zion369369/og.png" width="600" alt="Zion's ccclub profile card showing token usage, active days, streak, and activity over the past year" /></a>
 
+**CCgather · #162 globally · #1 in my country** for Claude Code usage, with 2.14 million tokens recorded as of November 23, 2026. [View my CCgather ranking](https://ccgather.com/leaderboard?u=zion369369)
+
 [![Zion's live VibeRank badge](https://www.viberank.app/api/badge/zion369369)](https://www.viberank.app/profile/zion369369)
 
 ## Selected work
