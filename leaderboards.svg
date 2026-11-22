@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="444" viewBox="0 0 720 444" role="img" aria-labelledby="title desc">
+  <title id="title">zion369369 · Coding leaderboards</title>
+  <desc id="desc">November 23, 2026 snapshot. VibeRank all-time efficiency ranks by tool, ccclub worldwide usage, and CCgather global and country ranks.</desc>
+  <rect x="1" y="1" width="718" height="442" rx="18" fill="#0c0c0e" stroke="#343438"/>
+  <g font-family="ui-monospace, Consolas, monospace">
+  <path d="M28 46v-8h6v8zm9 0V30h6v16zm9 0V22h6v24z" fill="#ff801e"/>
+  <text x="66" y="45" font-size="25" fill="#ffffff" font-weight="700">zion369369</text>
+  <text x="692" y="42" text-anchor="end" font-size="14" fill="#b4b4bd">23 NOV 2026</text>
+  <path d="M28 67h664 M28 230h664 M28 336h664" stroke="#303035"/>
+  <text x="28" y="99" font-size="21" fill="#ffffff" font-weight="700">VibeRank</text>
+  <text x="28" y="125" font-size="16" fill="#b4b4bd">All-time efficiency by tool</text>
+  <text x="28" y="161" font-size="16" fill="#f5f3ef">Copilot</text>
+  <text x="28" y="191" font-size="28" fill="#ff801e" font-weight="700">#7</text>
+  <text x="198" y="161" font-size="16" fill="#f5f3ef">Antigravity</text>
+  <text x="198" y="191" font-size="28" fill="#ff801e" font-weight="700">#18</text>
+  <text x="368" y="161" font-size="16" fill="#f5f3ef">Codex</text>
+  <text x="368" y="191" font-size="28" fill="#ff801e" font-weight="700">#39</text>
+  <text x="538" y="161" font-size="16" fill="#f5f3ef">Claude</text>
+  <text x="538" y="191" font-size="28" fill="#ff801e" font-weight="700">#46</text>
+  <text x="28" y="216" font-size="15" fill="#dbb393">FLAME   ·   4.3B tokens   ·   $1,335.50 API-equivalent</text>
+  <text x="28" y="265" font-size="21" fill="#ffffff" font-weight="700">ccclub</text>
+  <text x="28" y="294" font-size="16" fill="#b4b4bd">All-time agent usage</text>
+  <text x="398" y="268" font-size="24" fill="#ff801e" font-weight="700">#13 worldwide</text>
+  <text x="398" y="295" font-size="16" fill="#b4b4bd">977.7M tokens</text>
+  <text x="28" y="374" font-size="21" fill="#ffffff" font-weight="700">CCgather</text>
+  <text x="28" y="403" font-size="16" fill="#b4b4bd">Claude Code usage</text>
+  <text x="355" y="377" font-size="21" fill="#ff801e" font-weight="700">#162 global · #1 country</text>
+  <text x="355" y="405" font-size="16" fill="#b4b4bd">2.14M tokens</text>
+  </g>
+</svg>

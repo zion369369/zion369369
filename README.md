@@ -2,13 +2,11 @@
 
 I build web apps and tools for people who make things with AI. My work ranges from a music player where I published my own track to an open prompt library you can browse and reuse.
 
-**ccclub · #13 worldwide** on the all-time coding-agent usage leaderboard as of November 23, 2026. [View leaderboard](https://ccclub.dev/g/global)
+## Coding leaderboards
 
-<a href="https://ccclub.dev/u/zion369369"><img src="https://ccclub.dev/u/zion369369/og.png" width="600" alt="Zion's ccclub profile card showing token usage, active days, streak, and activity over the past year" /></a>
+![November 23, 2026 snapshot. VibeRank all-time efficiency ranks: Copilot 7th, Antigravity 18th, Codex 39th, Claude 46th. ccclub 13th worldwide. CCgather 162nd globally and 1st in country.](leaderboards.svg)
 
-**CCgather · #162 globally · #1 in my country** for Claude Code usage, with 2.14 million tokens recorded as of November 23, 2026. [View my CCgather ranking](https://ccgather.com/leaderboard?u=zion369369)
-
-[![Zion's live VibeRank badge](https://www.viberank.app/api/badge/zion369369)](https://www.viberank.app/profile/zion369369)
+[VibeRank profile](https://www.viberank.app/profile/zion369369) · [ccclub profile](https://ccclub.dev/u/zion369369) · [CCgather ranking](https://ccgather.com/leaderboard?u=zion369369)
 
 ## Selected work
 
