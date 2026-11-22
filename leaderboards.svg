@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="540" viewBox="0 0 720 540" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="636" viewBox="0 0 720 636" role="img" aria-labelledby="title desc">
   <title id="title">zion369369 · Coding leaderboards</title>
-  <desc id="desc">November 23, 2026 snapshot. VibeRank all-time efficiency ranks by tool, ccclub worldwide usage, and CCgather global and country ranks.</desc>
-  <rect x="1" y="1" width="718" height="538" rx="18" fill="#0c0c0e" stroke="#343438"/>
+  <desc id="desc">November 23, 2026 snapshot. VibeRank all-time efficiency ranks by tool, ccclub worldwide usage, and CCgather global and country ranks. CCRank all-time ranks across all tools: first in Output/$ and sixth in Output Ratio.</desc>
+  <rect x="1" y="1" width="718" height="634" rx="18" fill="#0c0c0e" stroke="#343438"/>
   <g font-family="ui-monospace, Consolas, monospace">
   <path d="M28 46v-8h6v8zm9 0V30h6v16zm9 0V22h6v24z" fill="#ff801e"/>
   <text x="66" y="45" font-size="25" fill="#ffffff" font-weight="700">zion369369</text>
@@ -31,5 +31,12 @@
   <text x="28" y="503" font-size="16" fill="#b4b4bd">Practice · @zion369369</text>
   <text x="355" y="480" font-size="21" fill="#ff801e">3 solved · AI-assisted</text>
   <text x="355" y="504" font-size="16" fill="#b4b4bd">2 easy · 1 medium</text>
+  <path d="M28 532h664" stroke="#303035"/>
+  <text x="28" y="572" font-size="21" fill="#ffffff" font-weight="700">CCRank</text>
+  <text x="28" y="602" font-size="15" fill="#b4b4bd">All tools · All time</text>
+  <text x="250" y="572" font-size="20" fill="#ff801e" font-weight="700">#1 Output/$</text>
+  <text x="250" y="602" font-size="15" fill="#b4b4bd">14.7K output tokens/$</text>
+  <text x="485" y="572" font-size="20" fill="#ff801e" font-weight="700">#6 Output Ratio</text>
+  <text x="485" y="602" font-size="15" fill="#b4b4bd">6.3% output</text>
   </g>
 </svg>
