@@ -2,7 +2,9 @@
 
 I build web apps and tools for people who make things with AI. My work ranges from a music player where I published my own track to an open prompt library you can browse and reuse.
 
-**#13 worldwide on ccclub's all-time coding-agent usage leaderboard** · 977.2 million tokens recorded as of November 23, 2026. [View the leaderboard](https://ccclub.dev/g/global)
+**ccclub · #13 worldwide** on the all-time coding-agent usage leaderboard as of November 23, 2026. [View leaderboard](https://ccclub.dev/g/global)
+
+<a href="https://ccclub.dev/u/zion369369"><img src="https://ccclub.dev/u/zion369369/og.png" width="600" alt="Zion's ccclub profile card showing token usage, active days, streak, and activity over the past year" /></a>
 
 [![Zion's live VibeRank badge](https://www.viberank.app/api/badge/zion369369)](https://www.viberank.app/profile/zion369369)
 
