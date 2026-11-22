@@ -1,67 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e65c00,100:F9D423&height=200&section=header&text=zion369369&fontSize=65&animation=twinkling" width="100%" alt="Header Banner" />
-</p>
+# Hi, I'm Zion
 
-<p align="center">
-  <a href="https://github.com/zion369369">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+%26+Agentic+Developer;Open+Source+Enthusiast" alt="Typing Subtitle" />
-  </a>
-</p>
+I build web apps and tools for people who make things with AI. My work ranges from a music player where I published my own track to an open prompt library you can browse and reuse.
 
-<p align="center">
-  <img src="https://komarev.com/normal-cb.png?username=zion369369&color=orange&style=flat-square&label=PROFILE+VIEWS" alt="views count" />
-  <a href="https://www.viberank.app/profile/zion369369">
-    <img src="https://www.viberank.app/api/badge/zion369369" alt="viberank" />
-  </a>
-</p>
+**#13 worldwide on ccclub's all-time coding-agent usage leaderboard** · 977.2 million tokens recorded as of November 23, 2026. [View the leaderboard](https://ccclub.dev/g/global)
 
----
+[![Zion's live VibeRank badge](https://www.viberank.app/api/badge/zion369369)](https://www.viberank.app/profile/zion369369)
 
-### 🏆 My GitHub Achievements
+## Selected work
 
-<p align="center">
-  <a href="https://github.com/zion369369" title="Quickdraw: Closed an issue within 5 minutes">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95px" style="margin: 5px;" alt="Quickdraw" />
-  </a>
-  <a href="https://github.com/zion369369" title="YOLO: Merged a PR without review">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px" style="margin: 5px;" alt="YOLO" />
-  </a>
-  <a href="https://github.com/zion369369" title="Pull Shark: Merged 128+ Pull Requests">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" width="95px" style="margin: 5px;" alt="Pull Shark" />
-  </a>
-  <a href="https://github.com/zion369369" title="Pair Extraordinaire: Co-authored 48+ Pull Requests">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-gold.png" width="95px" style="margin: 5px;" alt="Pair Extraordinaire" />
-  </a>
-</p>
+| Project | What you'll find |
+| --- | --- |
+| [Hello Music](https://github.com/zion369369/hellomusic) | A music player and publishing studio built with Next.js and TypeScript. My track *Fly away* is the first release. |
+| [Awesome Prompting Hacks](https://github.com/zion369369/awesome-prompting-hacks) | More than 5,000 reusable prompts, organized by task and model. Browse writing, coding, and image prompts, or adapt one for your own workflow. |
+| [Hello AI Academy](https://helloaiacademy.vercel.app/) | A seven-day curriculum on building AI SaaS apps with Gemini, Antigravity, and Supabase. [Browse the source](https://github.com/zion369369/helloaiacademy). |
 
----
-
-### 📈 Contribution & Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zion369369&bg_color=0d1117&color=ff7b72&line=faa356&point=f8e3a1&area=true&hide_border=true" width="100%" alt="Zion Activity Graph" />
-</p>
-
----
-
-### 📊 Performance & Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zion369369&show_icons=true&theme=radical&hide_border=true" height="175px" style="margin: 5px;" alt="Zion Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zion369369&layout=compact&theme=radical&hide_border=true" height="175px" style="margin: 5px;" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Personal Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zion369369&theme=radical&column=6&no-background=true" alt="Zion Trophies" />
-  </a>
-</p>
-
-<br />
-<p align="center">
-  <i>This profile dashboard is dynamically managed and was generated with agentic precision. ✨</i>
-</p>
+[Explore all my public repositories →](https://github.com/zion369369?tab=repositories)
