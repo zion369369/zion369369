@@ -1,5 +1,7 @@
 # Hi, I'm Zion
 
+**Ranked #1 in the world for AI coding efficiency** on the CCRank all-time Output/$ leaderboard, with 14.7K output tokens per dollar as of November 23, 2026. [View the ranking](https://ccrank.dev/leaderboard?sort=output_per_dollar)
+
 I build web apps and tools for people who make things with AI. My work ranges from a music player where I published my own track to an open prompt library you can browse and reuse.
 
 ## Coding leaderboards
